@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>message</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-10 08:47:46</sys_created_on>
+        <sys_data_policy display_value="Sets the Message field to mandatory">e54285a701f910107f4491866fe9820b</sys_data_policy>
+        <sys_id>a94285a701f910107f4491866fe9820e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>message</sys_name>
+        <sys_package display_value="FullStack" source="x_1234_fullstack">82f2bcaf01b910107f4491866fe982a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FullStack">82f2bcaf01b910107f4491866fe982a5</sys_scope>
+        <sys_update_name>sys_data_policy_rule_a94285a701f910107f4491866fe9820e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-10 08:47:46</sys_updated_on>
+        <table>x_1234_fullstack_message</table>
+    </sys_data_policy_rule>
+</record_update>

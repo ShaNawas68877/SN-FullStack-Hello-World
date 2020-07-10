@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-10 08:47:49</sys_created_on>
+        <sys_id>064285a701f910107f4491866fe98243</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1234_fullstack_message.x_1234_fullstack.hello_user</sys_name>
+        <sys_package display_value="FullStack" source="x_1234_fullstack">82f2bcaf01b910107f4491866fe982a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FullStack">82f2bcaf01b910107f4491866fe982a5</sys_scope>
+        <sys_security_acl display_value="x_1234_fullstack_message">024285a701f910107f4491866fe9823f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_064285a701f910107f4491866fe98243</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-10 08:47:49</sys_updated_on>
+        <sys_user_role display_value="x_1234_fullstack.hello_user" name="x_1234_fullstack.hello_user">3c13f4ef01b910107f4491866fe98286</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
